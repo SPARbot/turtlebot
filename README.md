@@ -1,11 +1,7 @@
-turtlebot
+Bringup launch and teleoperation
 =========
 
-The turtlebot stack provides all the basic drivers for running and using a [TurtleBot](http://turtlebot.com) with [ROS](http://www.ros.org).
+The basic ROS package used for bringup launch and teleoperation of the iRobot Create 2.
 
-ROS Wiki : (http://www.ros.org/wiki/Robots/TurtleBot)
-
-
-
-
-![TurtleBot Logo](http://www.turtlebot.com/assets/templates/turtlebot/img/turtlebot_logo.png)
+    1) Clone this project to your catkin's workspace src folder.
+    2) Run catkin_make.
